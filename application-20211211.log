@@ -1,0 +1,32 @@
+2021-12-11 06:25:05.575 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 06:25:49.951 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 06:26:34.385 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 06:34:36.584 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 07:18:14.326 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 07:18:56.703 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 07:19:09.322 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 07:21:48.952 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:18:26.184 [main] ERROR Main - Error during run code
+java.util.IllegalFormatConversionException: f != java.lang.Integer
+	at java.util.Formatter$FormatSpecifier.failConversion(Formatter.java:4426) ~[?:?]
+	at java.util.Formatter$FormatSpecifier.printFloat(Formatter.java:2951) ~[?:?]
+	at java.util.Formatter$FormatSpecifier.print(Formatter.java:2898) ~[?:?]
+	at java.util.Formatter.format(Formatter.java:2673) ~[?:?]
+	at java.io.PrintStream.format(PrintStream.java:1053) ~[?:?]
+	at java.io.PrintStream.printf(PrintStream.java:949) ~[?:?]
+	at hashMapFiltering.HashMap.lambda$examples$3(HashMap.java:37) ~[classes/:?]
+	at java.util.HashMap.forEach(HashMap.java:1337) ~[?:?]
+	at hashMapFiltering.HashMap.examples(HashMap.java:36) ~[classes/:?]
+	at Main.main(Main.java:11) [classes/:?]
+2021-12-11 10:19:42.280 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:29:15.221 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:29:38.974 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:29:58.912 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:30:26.401 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:40:05.233 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:42:01.230 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:43:14.069 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:45:00.368 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:45:20.724 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 10:45:36.445 [main] DEBUG Main - code run sucssesfuly
+2021-12-11 11:35:23.759 [main] DEBUG Main - code run successfully
